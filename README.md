@@ -1,6 +1,6 @@
 # Smart Meditation App
 
-![Smart Meditation App Logo](link-to-your-logo-image)  <!-- Thay link-to-your-logo-image bằng URL của hình ảnh logo ứng dụng -->
+![Smart Meditation App Logo](./Image_Source/logo.png)  <!-- Thay link-to-your-logo-image bằng URL của hình ảnh logo ứng dụng -->
 
 ## Mô tả
 **Smart Meditation App** là ứng dụng Android tiên tiến giúp theo dõi và hỗ trợ người dùng trong quá trình thiền. 
@@ -44,13 +44,11 @@ Clone repository về máy hoặc tải xuống file zip:
 git clone https://github.com/dainsd382/Smart_Meditation_App.git
 ```
 
-<!-- Thay link-to-your-clone-image bằng URL của hình ảnh minh họa cho việc clone repository -->
-
 ### Bước 2: Mở ứng dụng trong Android Studio
 - Mở folder `Smart Meditation App` trong Android Studio (đảm bảo đã cài đặt Android Studio trước khi thực hiện).
 - Mở ứng dụng và tiến hành biên dịch.
 
-![Open in Android Studio](link-to-your-open-image)  <!-- Thay link-to-your-open-image bằng URL của hình ảnh minh họa cho việc mở ứng dụng trong Android Studio -->
+![Open in Android Studio](./Image_Source/Start_Android_Studio.png)  <!-- Thay link-to-your-open-image bằng URL của hình ảnh minh họa cho việc mở ứng dụng trong Android Studio -->
 
 ### Bước 3: Thiết lập máy ảo hoặc thiết bị Android
 - Tạo một máy ảo trên Android Studio hoặc kết nối trực tiếp với thiết bị Android của bạn để trải nghiệm ứng dụng.
@@ -58,7 +56,7 @@ git clone https://github.com/dainsd382/Smart_Meditation_App.git
 ![Set up Emulator](link-to-your-emulator-image)  <!-- Thay link-to-your-emulator-image bằng URL của hình ảnh minh họa cho việc thiết lập máy ảo -->
 
 ### Liên hệ
-Nếu bạn có bất kỳ câu hỏi nào về dự án, hãy liên hệ với chúng tôi qua email: [your-email@example.com](mailto:your-email@example.com)
+Nếu bạn có bất kỳ câu hỏi nào về dự án, hãy liên hệ với chúng tôi qua email: [nguyenducdai382@gmail.com](mailto:nguyenducdai382@gmail.com)
 
 ### Hướng dẫn thêm hình ảnh
 - **Logo**: Thay `link-to-your-logo-image` bằng URL đến hình ảnh logo ứng dụng của bạn.
